@@ -1,11 +1,9 @@
-﻿<p id="custom_view" />
-
-## 自定义View
+﻿## 自定义View
 * [坐标系](https://github.com/YuHaoOi/OiNote/blob/master/Android/CustomView/%5B01%5DCoordinateSystem.md)
 * [ 分类和流程](https://github.com/YuHaoOi/OiNote/blob/master/Android/CustomView/CustomViewProcess.md)
+* [绘制基本图形](https://github.com/YuHaoOi/OiNote/blob/master/Android/CustomView/Canvas_BasicGraphics.md)
 
 
-* [安卓自定义View进阶 - 绘制基本图形](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B02%5DCanvas_BasicGraphics.md)
 * [安卓自定义View进阶 - 画布操作](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B03%5DCanvas_Convert.md)
 * [安卓自定义View进阶 - 图片文字](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B04%5DCanvas_PictureText.md)
 * [安卓自定义View进阶 - Path基本操作](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B05%5DPath_Basic.md)
