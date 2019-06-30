@@ -41,8 +41,6 @@
 #### 注意：
 **如果对View的宽高进行修改了，不要调用*super.onMeasure(widthMeasureSpec,heightMeasureSpec);*要调用*setMeasuredDimension(widthsize,heightsize);* 这个函数。**
 
-======
-
 ### 2.确定View大小(onSizeChanged)
   这个函数在视图大小发生改变时调用。
 
