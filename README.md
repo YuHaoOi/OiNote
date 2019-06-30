@@ -2,9 +2,8 @@
 * [坐标系](https://github.com/YuHaoOi/OiNote/blob/master/Android/CustomView/%5B01%5DCoordinateSystem.md)
 * [ 分类和流程](https://github.com/YuHaoOi/OiNote/blob/master/Android/CustomView/CustomViewProcess.md)
 * [绘制基本图形](https://github.com/YuHaoOi/OiNote/blob/master/Android/CustomView/Canvas_BasicGraphics.md)
+* [安卓自定义View进阶 - 画布操作](https://github.com/YuHaoOi/OiNote/blob/master/Android/CustomView/Canvas_Convert.md)
 
-
-* [安卓自定义View进阶 - 画布操作](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B03%5DCanvas_Convert.md)
 * [安卓自定义View进阶 - 图片文字](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B04%5DCanvas_PictureText.md)
 * [安卓自定义View进阶 - Path基本操作](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B05%5DPath_Basic.md)
 * [安卓自定义View进阶 - 贝塞尔曲线](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B06%5DPath_Bezier.md)
