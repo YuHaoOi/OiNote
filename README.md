@@ -1,47 +1,33 @@
-![](http://ww1.sinaimg.cn/large/005Xtdi2jw1f6307cu3krj30rs05kglz.jpg)
+﻿<p id="custom_view" />
 
-### 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
+## 自定义View
 
-我的安卓学习笔记，记录学习过程中遇到的问题,以及我的一些经验总结。如果出现链接失效等情况可以提交 Issues 提醒我修改相关内容。
 
-> #### PS:点击分类标题可以查看该分类的详细信息。
+* [坐标系](https://github.com/YuHaoOi/OiNote/blob/master/Android/CustomView/%5B01%5DCoordinateSystem.md)
 
-## [博客](http://www.gcssloop.com/#blog "GcsSloop的博客")
 
-我的个人博客，在博客中可以获得更好的阅读体验，同时在博客的评论区可以更及时的向我反馈文章中的问题。
 
-<a href="http://www.gcssloop.com/#blog" target="_blank"> <img src="http://ww1.sinaimg.cn/large/005Xtdi2jw1f70uy1873sj315o0dwae0.jpg" width="300"/> </a>
-
-******
-
-<p id="custom_view" />
-
-## [自定义View](https://github.com/GcsSloop/AndroidNote/tree/master/CustomView/README.md)
-
-* 基础篇
-    * [安卓自定义View基础 - 坐标系](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Base/%5B01%5DCoordinateSystem.md)
-    * [安卓自定义View基础 - 角度弧度](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Base/%5B02%5DAngleAndRadian.md)
-    * [安卓自定义View基础 - 颜色](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Base/%5B03%5DColor.md)
-* 进阶篇    
-    * [安卓自定义View进阶 - 分类和流程](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B01%5DCustomViewProcess.md)
-    * [安卓自定义View进阶 - 绘制基本图形](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B02%5DCanvas_BasicGraphics.md)
-    * [安卓自定义View进阶 - 画布操作](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B03%5DCanvas_Convert.md)
-    * [安卓自定义View进阶 - 图片文字](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B04%5DCanvas_PictureText.md)
-    * [安卓自定义View进阶 - Path基本操作](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B05%5DPath_Basic.md)
-    * [安卓自定义View进阶 - 贝塞尔曲线](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B06%5DPath_Bezier.md)
-    * [安卓自定义View进阶 - Path完结篇(伪)](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B07%5DPath_Over.md)
-    * [安卓自定义View进阶 - Path玩出花样(PathMeasure)](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B08%5DPath_Play.md)
-    * [安卓自定义View进阶 - Matrix原理](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B09%5DMatrix_Basic.md)
-    * [安卓自定义View进阶 - Matrix详解](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B10%5DMatrix_Method.md)
-    * [安卓自定义View进阶 - Matrix Camera](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B11%5DMatrix_3D_Camera.md)
-    * [安卓自定义View进阶 - 事件分发机制原理](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B12%5DDispatch-TouchEvent-Theory.md)
-    * [安卓自定义View进阶 - 事件分发机制详解](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B15%5DDispatch-TouchEvent-Source.md)
-    * [安卓自定义View进阶 - MotionEvent详解](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B16%5DMotionEvent.md)
-    * [安卓自定义View进阶 - 特殊形状控件事件处理方案](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B17%5Dtouch-matrix-region.md)  
-    * [安卓自定义View进阶 - 多点触控详解](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B18%5Dmulti-touch.md)
-    * [安卓自定义View进阶 - 手势检测(GestureDetector)](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B19%5Dgesture-detector.md)
-    * [安卓自定义View进阶 - 缩放手势检测(ScaleGestureDetector)](http://www.gcssloop.com/customview/scalegesturedetector)
-    * [安卓自定义View进阶 - 画笔基础(Paint)](http://www.gcssloop.com/customview/paint-base)
+* [安卓自定义View基础 - 角度弧度](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Base/%5B02%5DAngleAndRadian.md)
+* [安卓自定义View基础 - 颜色](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Base/%5B03%5DColor.md)
+* [安卓自定义View进阶 - 分类和流程](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B01%5DCustomViewProcess.md)
+* [安卓自定义View进阶 - 绘制基本图形](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B02%5DCanvas_BasicGraphics.md)
+* [安卓自定义View进阶 - 画布操作](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B03%5DCanvas_Convert.md)
+* [安卓自定义View进阶 - 图片文字](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B04%5DCanvas_PictureText.md)
+* [安卓自定义View进阶 - Path基本操作](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B05%5DPath_Basic.md)
+* [安卓自定义View进阶 - 贝塞尔曲线](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B06%5DPath_Bezier.md)
+* [安卓自定义View进阶 - Path完结篇(伪)](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B07%5DPath_Over.md)
+* [安卓自定义View进阶 - Path玩出花样(PathMeasure)](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B08%5DPath_Play.md)
+* [安卓自定义View进阶 - Matrix原理](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B09%5DMatrix_Basic.md)
+* [安卓自定义View进阶 - Matrix详解](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B10%5DMatrix_Method.md)
+* [安卓自定义View进阶 - Matrix Camera](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B11%5DMatrix_3D_Camera.md)
+* [安卓自定义View进阶 - 事件分发机制原理](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B12%5DDispatch-TouchEvent-Theory.md)
+* [安卓自定义View进阶 - 事件分发机制详解](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B15%5DDispatch-TouchEvent-Source.md)
+* [安卓自定义View进阶 - MotionEvent详解](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B16%5DMotionEvent.md)
+* [安卓自定义View进阶 - 特殊形状控件事件处理方案](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B17%5Dtouch-matrix-region.md)  
+* [安卓自定义View进阶 - 多点触控详解](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B18%5Dmulti-touch.md)
+* [安卓自定义View进阶 - 手势检测(GestureDetector)](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B19%5Dgesture-detector.md)
+* [安卓自定义View进阶 - 缩放手势检测(ScaleGestureDetector)](http://www.gcssloop.com/customview/scalegesturedetector)
+* [安卓自定义View进阶 - 画笔基础(Paint)](http://www.gcssloop.com/customview/paint-base)
 
 
 * [ViewSupport - 自定义View工具包](https://github.com/GcsSloop/ViewSupport)
